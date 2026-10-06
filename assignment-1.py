@@ -35,10 +35,10 @@ print("===========================")
 print("         RECEIPT           ")
 print("===========================")
 print(f"item: {item}")
-print(f"price: ${price:.2}")
+print(f"price: ${price:.2f}")
 print(f"quantity: {quantity}")
 print("---------------------------")
-print(f"total: {total}")
+print(f"total: ${total:.2f}")
 print("===========================")
 
 #section 5
